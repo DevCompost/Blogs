@@ -1,4 +1,4 @@
-In this post we will be taking a look the basics the Cloud Computing. We will be discussing about the evolution of Computing Model - from On-Premise data centers to Cloud, the major advantages of Cloud and the various Cloud Computing Model.
+In this post we will be taking a look the basics the Cloud Computing. We will be discussing about Cloud Computing, the evolution from On-Premise data centers and the major advantages of Cloud.
 
 Requirements of a Modern Software
 Software development has significantly evolved from what it used to be 10 or 15 years back. Advancements in technologies, increasing demand in digital transformation and fierce competition among various digital platforms had essentially changed the way we look at software applications. The perspective of both Business and Customers have changes when it comes to software
@@ -39,8 +39,21 @@ Some of the most obvious benefits of using Cloud would be
 	2. Pay-as-you-go
 		Cloud computing models are metered, hence you only pay for the resources that you are using. When you are using less number of resources you will be billed less, and during heavy load when you need more resources you will be billed accordingly. In an on-premise setting you will need to need to bear the cost for all the physical resources regardless of whether you are using them or not.
 	3. Domain focused and reduced maintenance
-		With the responsibility of maintaining the physical resources being offloaded to the 3rd party cloud vendors, you and your team can focus on what matters the most - your core business domain and customer requirements. You can focus completely on building applications and better experiences for your customers. You get to dazzle your customers without having to worry about any of the physical resource concerns like Availability, Connectively and Scalability.
+		With the responsibility of maintaining the physical resources being offloaded to the 3rd party cloud vendors, you and your team can focus on what matters the most - your core business domain and customer requirements. You can focus completely on building applications and better experiences for your customers. You get to dazzle your customers without having to worry about any of the physical resource concerns like Availability, Connectively and Scalability. All physical maintenance activities like applying security patches, wiring issues, network connectivity, etc. are managed by your Cloud Provide
 	4. Global Footprint
-		The major players in Cloud have a global footprint. Simple speaking they have data centers built all over the world and have planet level scaling capabilities. If your business needs to expand globally then you would want to keep your Go-to-market time as less as possible. 
+		The major players in Cloud have a global footprint. Simple speaking they have data centers built all over the world and have planet level scaling capabilities. If your business needs to expand globally then you would want to keep your Go-to-market time as less as possible. Setting up an IT infrastructure from the scratch is one of the most time consuming venture. With cloud computing you can expand your already build applications to the nearest data centers of your business within minutes.
 	5. Business Continuity
-Self-Service
+		Continuing business critical applications under adverse condition like natural disasters is one of the ultimate need for an modern application. Take example of an emailing service like Outlook or Gmail. Even if a single data center goes offline due to a sudden earthquake in that region, you as a customer won't tolerate any data loss or losing the ability to see your emails or sending. Cloud can help you in such a scenario be being able to replicate your data and servers in mirror regions. During disasters operation can shift to other unaffected regions with least disruption to your customers.
+	6. Self-Service
+		Most cloud providers expose Cloud Resources via APIs over the internet. Generally a management portal is also available. Hence, you can manage your cloud resources yourselves without the need of an expensive IT staff.
+
+Major Players
+There are several companies providing Cloud Computing, some of the leading players include
+	1. Amazon Web Services (AWS)
+	2. Microsoft Azure
+	3. Google Cloud Platform (GCP)
+	4. SalesForce
+	5. IBM
+	6. Oracle
+
+In the next article we will be looking at the various cloud computing models like IaaS, PaaS and SaaS.
